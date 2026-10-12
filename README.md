@@ -1,98 +1,104 @@
-# Karsov
+# KARSOV
+### `Developer • Cybersecurity • Networking`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Python+%7C+JavaScript+%7C+TypeScript+%7C+C;Pentesting+%7C+Networking;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+workspace;Python+%7C+JavaScript+%7C+TypeScript+%7C+C;Pentesting+%7C+Networking+%7C+Cybersecurity;Always+learning.+Always+building." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karsov&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Karsov?style=flat-square&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&logo=statuspal&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00bfff?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Karsov&style=for-the-badge&color=151515&label=VISITORS" />
 </p>
 
 ---
 
-### About Me
+## `01` — SYSTEM PROFILE
 
-```python
-class Developer:
-    def __init__(self):
-        self.username = "Karsov"
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "C"
-        ]
-        self.interests = [
-            "Pentesting",
-            "Networking",
-            "Cybersecurity",
-            "Software Development"
-        ]
+<p align="center">
+  <img width="650" src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=85" alt="Computer hardware and electronics" />
+</p>
 
-    def status(self):
-        return "Learning, building & improving"
+```yaml
+user: Karsov
+role: Developer
+interests:
+  - Software Development
+  - Cybersecurity
+  - Pentesting
+  - Networking
+mindset: Learn, build, experiment, improve
+```
+
+> Exploring code, systems and networks — one project at a time.
+
+---
+
+## `02` — TECH STACK
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c&theme=dark" alt="Programming languages" />
+</p>
+
+### Systems & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,docker&theme=dark" alt="Tools and technologies" />
+</p>
+
+### Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Pentesting-00FF9C?style=flat-square&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-00BFFF?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-202020?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Automation-7B68EE?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+---
+
+## `03` — GITHUB ANALYTICS
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Karsov&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00BFFF&text_color=C9D1D9" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karsov&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karsov&hide_border=true&background=0D1117&ring=00FF9C&fire=00BFFF&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=777777" alt="Contribution streak" />
+</p>
+
+---
+
+## `04` — CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karsov&bg_color=0D1117&color=00FF9C&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+## `05` — CURRENT MISSION
+
+```text
+[+] Improve programming skills
+[+] Explore networking fundamentals
+[+] Learn ethical penetration testing
+[+] Build useful projects
+[+] Keep experimenting and learning
 ```
 
 ---
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-</p>
-
-### Cybersecurity & Networking
-
-<p>
-  <img src="https://img.shields.io/badge/Pentesting-DC143C?style=flat-square&logo=kalilinux&logoColor=white" alt="Pentesting" />
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Cybersecurity-181717?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-### GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Karsov&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karsov&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-00FF9C?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karsov&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karsov&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-### Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karsov/Karsov/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-<p align="center">
-  <i>Build. Break. Learn. Improve.</i>
+  <samp>「 Think logically. Build creatively. Learn constantly. 」</samp>
 </p>
